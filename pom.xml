@@ -78,7 +78,7 @@
 <distributionManagement>
   <snapshotRepository>
     <id>snapshots01</id>
-    <url>http://http://3.12.84.97:8081/nexus/content/repositories/01/</url>
+    <url>http://http://18.224.135.218:8081/nexus/content/repositories/02/</url>
   </snapshotRepository>
 </distributionManagement>
 	<build>
